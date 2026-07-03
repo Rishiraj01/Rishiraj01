@@ -2,7 +2,7 @@
 
 I build AI agents that do the boring work so humans don't have to.
 
-Software Engineer | Agentic AI · LLM Fine-Tuning · Secure Cloud Infrastructure
+Software Engineer | Agent Harness · LLM Fine-Tuning · Secure Cloud Infrastructure
 
 ---
 
