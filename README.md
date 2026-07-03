@@ -80,5 +80,3 @@ An AI-powered monitoring agent for Kubernetes on Bare Metal clusters. Uses RAG a
 ![](https://streak-stats.demolab.com/?user=Rishiraj01&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-> If stats don't load, the public Vercel instance may be rate-limited. Deploy your own [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) on Vercel (free) and replace the URLs above.
