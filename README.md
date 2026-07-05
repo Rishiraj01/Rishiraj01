@@ -60,13 +60,6 @@ An AI-powered monitoring agent for Kubernetes on Bare Metal clusters. Uses RAG a
 
 ---
 
-## Awards
-
-- **1st Place** — Dell Hackathon Hack to Hire, October 2022
-- **1st Place** — Cyber Security Hackathon (IEEE), December 2021
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishirajsharma231) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srmarishiraj@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B2B?style=flat-square&logo=streamlit&logoColor=white)](https://rishirajsharma-portfolio.streamlit.app/)
